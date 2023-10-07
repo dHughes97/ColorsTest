@@ -1,0 +1,8 @@
+github.com/dHughes97/img_colors v0.0.0-20231006191548-7e25d278f1da h1:VLgXc9m/PhorEvPWcjfbIZJVP+hh+8a1RWervQhqUeQ=
+github.com/dHughes97/img_colors v0.0.0-20231006191548-7e25d278f1da/go.mod h1:AOzg7yNvTLRjW4QHMU7GYccNqCdb21JFbOx7pgpp7w8=
+github.com/dHughes97/img_get v0.0.0-20231006185334-20d252631713 h1:1aSQXzQ2zNfDAXHYjw7lqXIcH7ixRVpzdLWYghlJZ/w=
+github.com/dHughes97/img_get v0.0.0-20231006185334-20d252631713/go.mod h1:QEz/HImGKOKNfNQJFmXGYtRnjny2Rfz+pFg/suuROeQ=
+github.com/dHughes97/img_gray_scale v0.0.0-20231006185457-a5efa6249e23 h1:FXC3JcqfMrk04qsDVt8d7SXRuSiv4ItiYwGQu5C+cis=
+github.com/dHughes97/img_gray_scale v0.0.0-20231006185457-a5efa6249e23/go.mod h1:IZLaIyNtPNY1dXH+gE8vun0YIZ+mPAG00UT/btobFzY=
+github.com/dHughes97/img_text v0.0.0-20231006184228-8473a44724d4 h1:ahKnJdqOaEAHHfwTsTwuOa1vhoAkkhmcoGxHuPvQHLo=
+github.com/dHughes97/img_text v0.0.0-20231006184228-8473a44724d4/go.mod h1:kws/sxVufUe1kmldfVlW4X+v+/94KC+UNhDDrjwYGH0=
